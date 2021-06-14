@@ -27,7 +27,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Richard's Lab: Pendaftaran</title>
+    <title>SMKN 2 PROBOLINGGO : Pendaftaran</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="../assets/images/icon/favicon.ico">
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
@@ -145,7 +145,7 @@
                                 <div class="market-status-table mt-4">
                                     <div class="table-responsive">
 										 Selamat datang di sistem informasi Penerimaan Peserta Didik Baru (PPDB) Online.
-                                         <br>Sistem ini disusun oleh Richard's Lab
+                                         <br>Sistem ini disusun oleh Iqbal Kurriana Putra dan Muhammad Robithul Islam
                                          <br><br>
                                          Panduan Pendaftaran:
                                          <br>1. Isi seluruh formulir yang ditampilkan kemudian periksa kembali, pastikan tidak ada data yang salah.
@@ -612,7 +612,7 @@
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>PPDB Online by Richard's Lab</p>
+                <p>PPDB Online SMKN 2 PROBOLINGGO </p>
             </div>
         </footer>
         <!-- footer area end-->

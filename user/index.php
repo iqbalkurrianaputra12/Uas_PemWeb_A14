@@ -13,7 +13,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Richard's Lab: User Dashboard</title>
+    <title>SMKN 2 PROBOLINGGO : User Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="../assets/images/icon/favicon.ico">
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
@@ -56,7 +56,7 @@
         <!-- sidebar menu area start -->
         <div class="sidebar-menu">
             <div class="sidebar-header">
-                    <a href="index.php"><img src="../logo.png" alt="logo" width="100%"></a>
+                    <a href="index.php"><img src="../SMKN 2 PROBOLINGGO.png" alt="logo" width="50%"></a>
             </div>
             <div class="main-menu">
                 <div class="menu-inner">
@@ -129,7 +129,7 @@
                                 <div class="market-status-table mt-4">
                                     <div class="table-responsive">
 										 Selamat datang di sistem informasi Penerimaan Peserta Didik Baru (PPDB) Online.
-                                         <br>Sistem ini disusun oleh Richard's Lab
+                                         <br>Sistem ini disusun oleh Iqbal Kurriana Putra dan Muhammad Robithul Islam
                                          <br><br>
                                          Panduan Pendaftaran:
                                          <br>1. Pada bagian menu, klik 'Pendaftaran'.
@@ -153,7 +153,7 @@
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>PPDB Online by Richard's Lab</p>
+                <p>PPDB Online SMKN 2 PROBOLINGGO </p>
             </div>
         </footer>
         <!-- footer area end-->

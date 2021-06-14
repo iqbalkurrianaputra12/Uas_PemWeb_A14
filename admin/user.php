@@ -69,7 +69,7 @@
         <!-- sidebar menu area start -->
         <div class="sidebar-menu">
             <div class="sidebar-header">
-                    <a href="index.php"><img src="../logo.png" alt="logo" width="100%"></a>
+                    <a href="index.php"><img src="../SMKN 2 PROBOLINGGO.png" alt="logo" width="50%"></a>
             </div>
             <div class="main-menu">
                 <div class="menu-inner">
@@ -209,7 +209,7 @@
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>By Richard's Lab</p>
+                <p>PPDB Online SMKN 2 PROBOLINGGO</p>
             </div>
         </footer>
         <!-- footer area end-->

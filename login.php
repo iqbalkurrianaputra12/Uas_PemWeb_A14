@@ -65,7 +65,7 @@ $cekuser = mysqli_num_rows($cariuser);
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Masuk</title>
+    <title>Login/Daftar SMKN 2 PROBOLINGGO</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
@@ -80,12 +80,12 @@ $cekuser = mysqli_num_rows($cariuser);
 	  gtag('config', 'UA-144808195-1');
 	</script>
     <script src="jquery.min.js"></script>
-	<style>body{background-color:#17a2b8;}
+	<style>body{background-color:#a1d6e2;}
 	@media screen and (max-width: 600px) {
 h4{font-size:85%;}
 }
 .container{
-	background-color:#2c3e50;
+	background-color:#1995ad;
 	width:70%;
 	border: 3px white;
 	border-style:solid;
@@ -110,29 +110,35 @@ h4{font-size:85%;}
   
   
 
-  <img src="logo.png" width="30%" style="margin-top:2%" \>
+  <img src="LOGO_SMK2.png" width="30%" style="margin-top:2%" \>
 
 	<br \><br \>
+
+			
 			<div class="container">
+			<img  src="SMKN 2 PROBOLINGGO.png" alt="logo"  width="10%"/>
 					<div style="color:white">
 					<label>Login</label><br \>
-					<label>Email: guest@richard.id  |  Password : guest</label><br \>
-					<label>Email: admin@richard.id  |  Password : admin</label>
+					<label>Email siswa	: contoh@gmail.com |  Password : contoh</label><br \>
+					<label>Email admin 	: admin@gmail.com  |  Password : admin</label>
 					</div>
                 <form method="post">
                     <div class="form-group">
-                        <input type="email" class="form-control" placeholder="Email" name="email" autofocus required>
+                        <input type="email" class="form-control" placeholder="Masukkan Email Anda" name="email" autofocus required>
                     </div>
                     <div class="form-group">
-                        <input type="password" class="form-control" placeholder="Password" name="password" required>
+                        <input type="password" class="form-control" placeholder="Masukkan Password Anda" name="password" required>
                     </div>
                     <button type="submit" class="btn btn-primary" name="btn-login">Masuk</button>
 					<a class="btn btn-info text-light" href="register.php">Daftar</a>
                 </form>
-			
+				
 			<br \>
-        </div></div>
-       
+        </div>
+		</div>
+		<div class="copyright py-1 text-center text-black">
+            <div><medium> PPDB Online SMKN 2 PROBOLINGGO </medium></div>
+        </div>
      
 	
 	

@@ -39,7 +39,7 @@
 <body>
 		<div class="container">
 			<h2>Data Formulir</h2>
-			<h4>(SMK Richard's Lab)</h4>
+			<h4>(PPDB Online SMKN 2 PROBOLINGGO)</h4>
 				<div class="data-tables datatable-dark">
 					<table id="dataTable3" class="display" style="width:100%"><thead class="thead-dark">
 											<tr>
